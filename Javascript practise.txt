@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> JavaScript Practice </title>
+</head>
+<body>
+<h1> I Will Practise JavaScript here in this browser page in the console in the form of results </h1>
+<p> The calculations or practices will not be done here whatsoever but it will be done in the script tag in HTML file</p>
+<script>
+
