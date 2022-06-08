@@ -7,3 +7,6 @@
 (08 - 06 - 2022) (i) add7 - a simple html JS that returns any number when input console log as a function, updated log
                  (ii) multiply - multiplies two numbers as we input on console log as a function, updated log                 
                  (iii) capitalize - it is a simple function which outputs a string which has capial first letter but small letter for all remaining letters irrespective of any input of letters given.
+                 (iv) lastLetter - yet another simple function which returns a last letter of a string we input on console log, updated Readme log.
+                 
+                 End of practise.
