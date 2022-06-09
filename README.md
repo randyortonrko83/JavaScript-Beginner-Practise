@@ -10,3 +10,5 @@
                  (iv) lastLetter - yet another simple function which returns a last letter of a string we input on console log, updated Readme log.
                  
                  End of practise.
+
+(09 - 06 - 2022) (i) FizzBuzz - Created a simple JS program with loop that asks user for a prompt to enter a number, if the user enters a number, the console log outputs number 1 till the user entered number. if the printed number on the console is divisible by 3 then it is printed as Fizz, if the printed number is divisible by 5 then it is printed as Buzz, finally if it is divisible by both 3 & 5 it prints FizzBuzz; i have taken reference from odin project for this practise and the program was successful, updated log.
